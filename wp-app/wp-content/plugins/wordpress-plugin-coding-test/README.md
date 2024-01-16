@@ -24,7 +24,7 @@ Approach:
 - Npm
 - Git
 
-## Before activation
+## Usage instructions
 - Development only:
   - run `composer install`
   - run `npm install`
@@ -35,8 +35,7 @@ Approach:
 
 ### Documentation
 
-This theme uses a few frameworks and packages. Here are some useful links for you to get up to speed on the most
-important ones. I recommend going through them.
+This theme uses a few frameworks, guidelines and packages i used.
 
 - [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/): the
   PHP style and formatting is validated against these standards.
